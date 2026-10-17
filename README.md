@@ -234,4 +234,4 @@ This repository serves as the official landing page for **Yu-Gi-Oh! Duel Compani
 **Get the most recent version of Yu-Gi-Oh! Duel Companion today!**
 
 ---
-**Last updated:** 2026-10-16 22:35:56 UTC
+**Last updated:** 2026-10-17 01:06:38 UTC
